@@ -1,10 +1,8 @@
 export default function Footer() {
     return (
-        <footer className="footer bg-dark-gray text-neutral-content items-center p-4">
+        <footer className="footer items-center p-4">
             <aside className="flex w-full items-center justify-between">
-                <p className="mr-2">
-                    Copyright © 2025 - All right reserved
-                </p>
+                <p className="mr-2">Copyright © 2025 - All right reserved</p>
                 <a
                     href="https://github.com/Jakub-Pinkowski"
                     aria-label="GitHub"

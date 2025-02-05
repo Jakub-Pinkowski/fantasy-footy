@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+// TODO: Put the image into a separate component
 export default function Home() {
     return (
         <div className="relative w-full max-w-4xl mx-auto bg-green-300 rounded-lg shadow-lg p-4">

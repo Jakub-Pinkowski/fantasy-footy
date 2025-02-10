@@ -7,6 +7,8 @@ export const metadata: Metadata = {
     description: "Basically guaranteed 10k finish",
 };
 
+// TODO: Add a navbar
+
 export default function RootLayout({
     children,
 }: Readonly<{
